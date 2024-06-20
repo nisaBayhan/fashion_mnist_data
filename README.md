@@ -19,6 +19,7 @@ Bu proje, Kaggle'dan alınan bir görüntü veri seti olan Fashion MNIST veri se
 
 ## Kurulum
 Fashion MNIST veri setini aşağıdaki kodla direkt google colab üzerinden kullanabilirsiniz.
+
 (X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
 
 Projeyi yerel makinenize klonlayın:
