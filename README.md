@@ -4,7 +4,7 @@ Bu proje, Aygaz Yapay Zekaya Giriş Bootcamp eğitimi sonunda verilen görev iç
 
 # Fashion MNIST Sınıflandırma
 
-Bu proje, Kaggle'dan alınan bir görüntü veri seti olan Fashion MNIST veri setini kullanarak çeşitli makine öğrenmesi algoritmaları ile nasıl ön işleme, sınıflandırma yapılacağını göstermektedir. Proje, Google Colab not defteri üzerinde gerçekleştirilmiştir ve veri yükleme, ön işleme, görselleştirme, normalleştirme, model eğitimi ve değerlendirme adımlarını içermektedir.
+Bu proje, Kaggle'dan alınan bir görüntü veri seti olan Fashion MNIST veri setini kullanarak çeşitli makine öğrenmesi algoritmaları ile nasıl ön işleme, sınıflandırma yapılacağını göstermektedir. Proje, Google Colab not defteri üzerinde gerçekleştirilmiştir ve veri yükleme, görselleştirme, normalleştirme, model eğitimi ve değerlendirme adımlarını içermektedir.
 
 ## Kullanılan Teknolojiler
 
