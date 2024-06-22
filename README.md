@@ -30,5 +30,5 @@ Fashion MNIST veri setini aşağıdaki kodla direkt google colab üzerinden kull
 ```
 Projeyi yerel makinenize klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/proje-adi.git 
+git clone https://github.com/nisaBayhan/fashion_mnist_data.git 
 ```
