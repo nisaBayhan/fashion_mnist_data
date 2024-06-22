@@ -28,7 +28,7 @@ Fashion MNIST veri setini aşağıdaki kodla direkt google colab üzerinden kull
 
 (X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
 ```
-Projeyi yerel makinenize klonlayın:
+Projeyi local makineye klonlamak için:
 ```bash
 git clone https://github.com/nisaBayhan/fashion_mnist_data.git 
 ```
