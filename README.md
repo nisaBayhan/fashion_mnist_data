@@ -14,12 +14,10 @@ Bu proje, Kaggle'dan alınan bir görüntü veri seti olan Fashion MNIST veri se
 ## Kullanılan Teknolojiler
 
 - Python
-- Pandas
-- Numpy
+- TensorFlow
+- Keras
+- NumPy
 - Matplotlib
-- Seaborn
-- Scikit-learn
-- TensorFlow Keras
 - Google Colab
 
 ## Kurulum
